@@ -1,0 +1,4 @@
+project: csvtk
+target: csvtk
+cmds:
+  - cmd: /csvtk pretty @@
